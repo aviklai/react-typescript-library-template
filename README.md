@@ -5,6 +5,11 @@
 yarn install
 ```
 
+## Run Storybook
+```
+yarn storybook
+```
+
 ## Usage
 
 ```tsx
