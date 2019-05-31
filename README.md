@@ -10,7 +10,7 @@ yarn install
 ```tsx
 import * as React from 'react';
 
-import Hello from 'react-typescript-library-template';
+import { Hello } from 'react-typescript-library-template';
 
 class Example extends React.Component {
   render () {
