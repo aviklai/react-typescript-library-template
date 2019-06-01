@@ -5,6 +5,11 @@
 yarn install
 ```
 
+## Run Tests
+```
+yarn test
+```
+
 ## Run Storybook
 ```
 yarn storybook
